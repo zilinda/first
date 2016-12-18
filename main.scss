@@ -1,5 +1,15 @@
 body{
-  &>div{
-    background-color: aqua;
+  &>#page{
+    width:1190px;
+    height:14950px;
+    margin:0;
+    padding:0px;
+    
+  }
+  &> div.banner-box{
+    width:990px;
+    height:150px;
+
+
   }
 }
